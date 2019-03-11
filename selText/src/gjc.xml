@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+  <parameter name="test1" value="123456"></parameter>
+   <parameter name="test2" value="123456"></parameter>
+    <classes>
+      <class name="day05.day05_03"/>       
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

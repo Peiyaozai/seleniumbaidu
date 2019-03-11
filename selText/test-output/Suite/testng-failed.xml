@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="test1" value="123456"/>
+  <test name="Test(failed)">
+    <parameter name="test1" value="123456"/>
+    <classes>
+      <class name="day05.day05_03">
+        <methods>
+          <include name="cc"/>
+          <include name="aa"/>
+          <include name="mm"/>
+          <include name="bgg"/>
+        </methods>
+      </class> <!-- day05.day05_03 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

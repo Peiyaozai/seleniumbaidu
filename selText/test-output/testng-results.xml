@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12450" started-at="2019-01-10T06:53:06Z" finished-at="2019-01-10T06:53:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12450" started-at="2019-01-10T06:53:06Z" finished-at="2019-01-10T06:53:19Z">
+      <class name="day06.ti1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:day06.ti1@5f150435]" name="setup" is-config="true" duration-ms="3398" started-at="2019-01-10T14:53:06Z" finished-at="2019-01-10T14:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="open()[pri:0, instance:day06.ti1@5f150435]" name="open" duration-ms="4778" started-at="2019-01-10T14:53:09Z" finished-at="2019-01-10T14:53:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="select()[pri:0, instance:day06.ti1@5f150435]" name="select" duration-ms="4155" started-at="2019-01-10T14:53:14Z" finished-at="2019-01-10T14:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:day06.ti1@5f150435]" name="quit" is-config="true" duration-ms="103" started-at="2019-01-10T14:53:18Z" finished-at="2019-01-10T14:53:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- day06.ti1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
