@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="88942" started-at="2019-03-05T07:59:19Z" finished-at="2019-03-05T08:00:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="88942" started-at="2019-03-05T07:59:19Z" finished-at="2019-03-05T08:00:48Z">
+      <class name="app.logintestcase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:app.logintestcase@6956de9]" name="setUp" is-config="true" duration-ms="4077" started-at="2019-03-05T15:59:19Z" finished-at="2019-03-05T15:59:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:app.logintestcase@6956de9]" name="login" duration-ms="29368" started-at="2019-03-05T15:59:23Z" finished-at="2019-03-05T15:59:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:app.logintestcase@6956de9]" name="tearDown" is-config="true" duration-ms="1545" started-at="2019-03-05T15:59:53Z" finished-at="2019-03-05T15:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- app.logintestcase -->
+      <class name="app.tikutestcase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:app.tikutestcase@769c9116]" name="setUp" is-config="true" duration-ms="2447" started-at="2019-03-05T15:59:54Z" finished-at="2019-03-05T15:59:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:app.tikutestcase@769c9116]" name="login" duration-ms="28278" started-at="2019-03-05T15:59:57Z" finished-at="2019-03-05T16:00:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:app.tikutestcase@769c9116]" name="tearDown" is-config="true" duration-ms="828" started-at="2019-03-05T16:00:25Z" finished-at="2019-03-05T16:00:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- app.tikutestcase -->
+      <class name="gg.ggg">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:gg.ggg@6aceb1a5]" name="setUp" is-config="true" duration-ms="2514" started-at="2019-03-05T16:00:26Z" finished-at="2019-03-05T16:00:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testUntitled()[pri:0, instance:gg.ggg@6aceb1a5]" name="testUntitled" duration-ms="19032" started-at="2019-03-05T16:00:28Z" finished-at="2019-03-05T16:00:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitled -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:gg.ggg@6aceb1a5]" name="tearDown" is-config="true" duration-ms="827" started-at="2019-03-05T16:00:47Z" finished-at="2019-03-05T16:00:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- gg.ggg -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
