@@ -3,7 +3,6 @@
   <test name="Test">
     <classes>
       <class name="app.logintestcase"/>
-      <class name="app.tikutestcase"/>
       <class name="gg.ggg"/>
     </classes>
   </test> <!-- Test -->

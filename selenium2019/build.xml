@@ -10,6 +10,7 @@
 	<path id="jarfile">
 		<fileset dir="lib" includes="selenium-server-standalone-2.53.0.jar" />
 		<fileset dir="lib" includes="testng-6.5.1.jar" />
+		
 	</path>
 
 	<!-- delete the output folder if it exists -->
@@ -41,7 +42,7 @@
 			<classpath>
 				<pathelement path="${dest.dir}" />
 			</classpath>
-			<xmlfileset dir="${basedir}" includes="gjc.xml" />
+			<xmlfileset dir="${basedir}" includes="testng.xml" />
 		</testng>
 	</target>
 
